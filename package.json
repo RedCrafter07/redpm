@@ -1,0 +1,10 @@
+{
+	"name": "redpm",
+	"version": "1.0.0",
+	"description": "The RedCrafter07 Package Manager for the RedCrafter07 Project Universe",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [ "package manager", "redcrafter07", "rediverse" ],
+	"author": "RedCrafter07",
+	"license": "ISC"
+}
